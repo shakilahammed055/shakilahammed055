@@ -233,12 +233,6 @@ Data Analysis with Python: EDA, hypothesis testing, ML pipelines · *May – Sep
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakilahammed055&theme=tokyonight" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakilahammed055&theme=tokyonight" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakilahammed055&theme=tokyonight&utcOffset=6" height="160"/>
-
 </div>
 
 ---
