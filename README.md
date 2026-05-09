@@ -1,16 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shakil%20Ahamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shakil%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=58&descSize=18" />
+
+<a href="https://github.com/shakilahammed055">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Specialist+%F0%9F%A7%A0;Computer+Vision+Expert+%F0%9F%91%81%EF%B8%8F;Generative+AI+Builder+%E2%9C%A8;Multi-Agent+Systems+Architect+%F0%9F%94%97;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=shakilahammed055&label=Profile%20Views&color=7c3aed&style=for-the-badge&logo=eye)](https://github.com/shakilahammed055)
+[![GitHub followers](https://img.shields.io/github/followers/shakilahammed055?label=Followers&style=for-the-badge&color=302b63&logo=github)](https://github.com/shakilahammed055?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/shakilahammed055?label=Stars&style=for-the-badge&color=0f0c29&logo=github)](https://github.com/shakilahammed055)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shakilahammed055&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/shakilahammed055)
+[![Download CV](https://img.shields.io/badge/Download%20CV-Shakil%20Ahamed-0f0c29?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/main/Shakil_Ahamed.pdf)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shakil%20Ahammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidevshakil/)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shakil%20Ahamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidevshakil/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-shakilahammed0555-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shakilahammed0555)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-22852685-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22852685)
 [![CodePen](https://img.shields.io/badge/CodePen-shakil--ahammed-000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shakil-ahammed)
-[![Email](https://img.shields.io/badge/Email-aidevshakilinfo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidevshakilinfo@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-aidevshakilinfo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidevshakilinfo@gmail.com)
 
 </div>
 
@@ -18,90 +30,158 @@
 
 ## 🧠 About Me
 
+<img align="right" alt="AI Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 > *"Motivated AI Engineer with robust expertise in machine learning, computer vision, and multi-agent orchestration — passionate about driving innovation through cutting-edge AI solutions."*
 
 I'm an **AI Engineer** currently working at **BETOPIA (Softvence - Sister Concern)**, building production-grade AI systems from multi-agent chatbots to generative media pipelines. I blend deep learning, NLP, and computer vision to solve real-world problems at scale.
 
-- 🏢 **Currently**: AI Developer @ BETOPIA, Dhaka
-- 🎓 **BSc in CSE** — Gopalganj Science & Technology University (2019–2024)
-- 🔬 Specializing in: `Multi-Agent Systems` · `Generative AI` · `Computer Vision` · `NLP`
-- 📍 Mohakhali, Dhaka, Bangladesh
-- 📞 +880 1521750556
+```yaml
+name       : Shakil Ahamed
+role       : AI Engineer
+company    : BETOPIA (Softvence Sister Concern)
+location   : Mohakhali, Dhaka, Bangladesh
+education  : BSc in CSE — Gopalganj Science & Technology University
+contact    : aidevshakilinfo@gmail.com | +880 1521750556
+focus      :
+  - Multi-Agent Systems
+  - Generative AI
+  - Computer Vision
+  - NLP & LLMs
+open_to    : Collaboration · Research · Freelance
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shakilahammed055&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## 💼 Professional Experience
 
-### 🤖 AI Developer — BETOPIA *(Feb 2025 – Present)*
+<details open>
+<summary><b>🤖 AI Developer — BETOPIA &nbsp;<i>(Feb 2025 – Present)</i></b></summary>
 
-| Project | Description |
-|--------|-------------|
-| **InPrep-AI** | AI-powered mock interview platform with question generation, scoring, feedback & candidate tracking |
-| **Multi-Agent Chatbot** | Integrated EachLabs video/image generation, TTS & editing tools into scalable FastAPI pipelines |
-| **AI Ad Generation System** | Shot-based AI ad video pipeline using GPT-4, MusicGen, Stable Diffusion & Pydub |
-| **NFL Player Predictor** | Feature engineering + modeling with Goalserve stats, injury data & fantasy scoring |
-| **Viral Clip Detection** | Hybrid video segmentation & viral shot detection algorithms for social media optimization |
-| **AI Fitness Tracking** | Personalized food & exercise recommendation system based on daily activity analysis |
-| **Car Body Wrap AI** | Computer Vision pipeline: U-Net/SegFormer/SAM + Stable Diffusion for wrap generation |
+<br/>
+
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| **InPrep-AI** | GPT-4, FastAPI, PostgreSQL | AI-powered mock interview platform with question generation, scoring, feedback & candidate tracking |
+| **Multi-Agent Chatbot** | LangChain, FastAPI, EachLabs | Integrated video/image generation, TTS & editing tools into scalable pipelines |
+| **AI Ad Generation System** | GPT-4, MusicGen, Stable Diffusion | Shot-based AI ad video pipeline with auto music & voiceover |
+| **NFL Player Predictor** | XGBoost, Goalserve API | Feature engineering + modeling with injury data & fantasy scoring |
+| **Viral Clip Detection** | OpenCV, FFmpeg, Custom ML | Hybrid video segmentation & viral shot detection for social media |
+| **AI Fitness Tracking** | Python, ML, FastAPI | Personalized food & exercise recommendation based on daily activity |
+| **Car Body Wrap AI** | U-Net, SAM, SegFormer, Diffusion | Computer vision pipeline for automotive wrap design generation |
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+### 💻 Languages & Core
 
-### 🤖 ML & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,c,sql,bash&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+### 🤖 AI / ML / Deep Learning
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
-
-**Architectures**: CNNs · RNNs · Transformers · U-Net · Stable Diffusion
-
-### 🗣️ NLP & Generative AI
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-**Libraries**: NLTK · spaCy · SentenceTransformers · LlamaIndex
-
-### 👁️ Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logo=stability-ai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6929C4?style=flat-square&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 
-**Tools**: SAM · FFmpeg · SegFormer
+</div>
 
-### 🗄️ Databases & Vector Search
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Vector DBs**: FAISS · Pinecone · Weaviate
+**Architectures**: `CNNs` · `RNNs` · `Transformers` · `U-Net` · `SegFormer` · `SAM` · `Stable Diffusion` · `GPT-4`
 
 ### ☁️ Cloud, DevOps & APIs
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=docker,fastapi,azure,github,githubactions,linux,postman&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+### 🗄️ Databases & Vector Search
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+![FAISS](https://img.shields.io/badge/FAISS-0081A7?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF4785?style=flat-square&logoColor=white)
+
+</div>
 
 ### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=pandas,numpy,matplotlib&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
+</div>
+
+---
+
+## 📈 AI Skill Proficiency
+
+```
+Machine Learning          ████████████████████  95%
+Computer Vision           ███████████████████░  90%
+NLP & LLMs                ███████████████████░  90%
+Generative AI             ██████████████████░░  85%
+Multi-Agent Systems       ██████████████████░░  85%
+MLOps / Deployment        ████████████████░░░░  80%
+Data Engineering          ███████████████░░░░░  75%
+```
+
 ---
 
 ## 🚀 Personal Projects
+
+<details open>
+<summary><b>View All Projects</b></summary>
+
+<br/>
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -114,28 +194,88 @@ I'm an **AI Engineer** currently working at **BETOPIA (Softvence - Sister Concer
 | **Netflix Data Analysis** | Pandas, Matplotlib | EDA uncovering viewer behavior & genre popularity trends |
 | **Power BI Dashboards** | Power BI, MySQL | Interactive BI dashboards for KPI & sales reporting |
 
+</details>
+
 ---
 
 ## 🎓 Education & Training
 
-**🏫 BSc in Computer Science & Engineering**  
-Gopalganj Science and Technology University, Bangladesh · *2019 – 2024*
-
-**📜 EDGE-BSMRSTU CSE — Digital Skills for Students**  
-Data Analysis with Python: EDA, hypothesis testing, ML pipelines · *May – Sep 2024*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shakilahammed055&show_icons=true&theme=tokyonight&border_radius=10" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakilahammed055&layout=compact&theme=tokyonight&border_radius=10" height="160"/>
+<details open>
+<summary><b>Academic Background</b></summary>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahammed055&theme=tokyonight&border_radius=10" height="160"/>
+**🏫 BSc in Computer Science & Engineering**
+Gopalganj Science and Technology University, Bangladesh · *2019 – 2024*
+
+**📜 EDGE-BSMRSTU CSE — Digital Skills for Students**
+Data Analysis with Python: EDA, hypothesis testing, ML pipelines · *May – Sep 2024*
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shakilahammed055&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakilahammed055&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8&cache_seconds=1800" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=shakilahammed055&theme=tokyonight&border_radius=10&hide_border=true" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakilahammed055&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakilahammed055&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakilahammed055&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakilahammed055&theme=tokyonight&utcOffset=6" height="160"/>
+
+</div>
+
+---
+
+## 📉 Contribution Activity
+
+<div align="center">
+
+[![Shakil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shakilahammed055&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/output/ocean.gif" alt="snake ocean animation" />
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -146,11 +286,11 @@ Data Analysis with Python: EDA, hypothesis testing, ML pipelines · *May – Sep
 ### 🤝 Let's Connect & Build Something Extraordinary
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shakil-ahammed055/)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail)](mailto:aidevshakilinfo@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail)](mailto:aidevshakilinfo@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-View%20Work-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/shakilahammed0555)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 
 </div>
