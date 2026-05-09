@@ -4,7 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shakil%20Ahamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidevshakil/)
+[![Profile Views](https://komarev.com/ghpvc/?username=shakilahammed055&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/shakilahammed055)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shakil%20Ahammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidevshakil/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-shakilahammed0555-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shakilahammed0555)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-22852685-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22852685)
 [![CodePen](https://img.shields.io/badge/CodePen-shakil--ahammed-000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shakil-ahammed)
