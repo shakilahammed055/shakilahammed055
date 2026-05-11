@@ -257,11 +257,11 @@ Data Analysis with Python: EDA, hypothesis testing, ML pipelines · *May – Sep
   <img alt="github-snake" src="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/output/github-snake-dark.svg" />
 </picture>
 
-<br/>
+<!-- <br/>
 
 <img src="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/output/ocean.gif" alt="snake ocean animation" />
 
-</div>
+</div> -->
 
 ---
 
