@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shakil%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shakil%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Flutter%20Developer%20%7C%20ML%20Builder&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/shakilahammed055">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Specialist+%F0%9F%A7%A0;Computer+Vision+Expert+%F0%9F%91%81%EF%B8%8F;Generative+AI+Builder+%E2%9C%A8;Multi-Agent+Systems+Architect+%F0%9F%94%97;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer+%F0%9F%A4%96;Flutter+Developer+%F0%9F%93%B1;Machine+Learning+Specialist+%F0%9F%A7%A0;Cross-Platform+App+Builder+%F0%9F%9A%80;Computer+Vision+Expert+%F0%9F%91%81%EF%B8%8F;Generative+AI+Builder+%E2%9C%A8;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,23 +32,25 @@
 
 <img align="right" alt="AI Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-> *"Motivated AI Engineer with robust expertise in machine learning, computer vision, and multi-agent orchestration — passionate about driving innovation through cutting-edge AI solutions."*
+> *"AI Engineer and Flutter Developer building intelligent, scalable, and user-friendly products across mobile, backend, and AI."*
 
-I'm an **AI Engineer** currently working at **BETOPIA (Softvence - Sister Concern)**, building production-grade AI systems from multi-agent chatbots to generative media pipelines. I blend deep learning, NLP, and computer vision to solve real-world problems at scale.
+I'm an **AI Engineer and Flutter Developer** currently building production-ready products across **AI systems, backend services, and cross-platform mobile apps**. Alongside machine learning, NLP, and computer vision, I also develop polished Flutter applications with responsive UI, API integration, Firebase, and scalable app architecture.
 
 ```yaml
 name       : Shakil Ahamed
-role       : AI Engineer
+role       : AI Engineer | Flutter Developer
 company    : BETOPIA (Softvence Sister Concern)
 location   : Mohakhali, Dhaka, Bangladesh
 education  : BSc in CSE — Gopalganj Science & Technology University
 contact    : aidevshakilinfo@gmail.com | +880 1521750556
 focus      :
+  - Flutter App Development
+  - Cross-Platform Mobile Apps
   - Multi-Agent Systems
   - Generative AI
   - Computer Vision
   - NLP & LLMs
-open_to    : Collaboration · Research · Freelance
+open_to    : Mobile Apps · AI Products · Collaboration · Freelance
 ```
 
 ---
@@ -90,7 +92,26 @@ open_to    : Collaboration · Research · Freelance
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,c,sql,bash&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,dart,javascript,typescript,c,sql,bash&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+### 📱 Flutter Development
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,androidstudio&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=flat-square&logo=firebase&logoColor=white)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SharedPreferences](https://img.shields.io/badge/SharedPreferences-5C6BC0?style=flat-square)
+![Responsive UI](https://img.shields.io/badge/Responsive%20UI-FF7043?style=flat-square&logo=flutter&logoColor=white)
+![State Management](https://img.shields.io/badge/State%20Management-1E88E5?style=flat-square&logo=flutter&logoColor=white)
 
 </div>
 
@@ -182,6 +203,7 @@ Data Engineering          ███████████████░░░
 <summary><b>View All Projects</b></summary>
 
 <br/>
+### 🤖 AI Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -193,6 +215,23 @@ Data Engineering          ███████████████░░░
 | **Car Wrap Design Tool** | SAM, OpenCV, Diffusion | Visual prototyping for automotive wraps |
 | **Netflix Data Analysis** | Pandas, Matplotlib | EDA uncovering viewer behavior & genre popularity trends |
 | **Power BI Dashboards** | Power BI, MySQL | Interactive BI dashboards for KPI & sales reporting |
+
+<br/>
+
+### 📱 Flutter Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **InPrep AI** | Flutter, Python, TensorFlow, OpenCV | AI-powered interview preparation app with facial emotion recognition, confidence analysis, real-time feedback, and personalized coaching |
+| **Unfall-Update** | Flutter, Firebase, REST APIs | Accident claim management app with OTP authentication, role-based access, document upload, dashboards, and secure case tracking |
+| **Sippd.Coffee** | Flutter | Social coffee discovery app for exploring cafes, logging visits, sharing experiences, and rating coffee shops |
+| **theSliceUp** | Flutter | Personal finance app for tracking income, expenses, budgets, savings goals, and spending analytics |
+| **Biovue** | Flutter, AI | AI-assisted fitness tracking app with personalized workout recommendations and progress insights |
+| **Fairplay** | Flutter | Sports management platform for tracking teams, matches, player statistics, rankings, and performance analytics |
+| **FitFlex** | Flutter | Fitness and workout tracking application with exercise plans, progress monitoring, and goal setting |
+| **E-commerce App Admin Panel** | Flutter | E-commerce management app with product catalog, orders, authentication, payments, and admin dashboard |
+| **Weather App** | Flutter, APIs | Real-time location-based weather forecasting app with dynamic weather visualizations |
+| **User Data Collection App** | Flutter, Local Storage | Secure form-based app with validation, local storage, and data synchronization support |
 
 </details>
 
