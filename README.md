@@ -70,7 +70,7 @@ open_to    : Mobile Apps · AI Products · Collaboration · Freelance
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🤖 AI Developer — BETOPIA &nbsp;<i>(Feb 2025 – Present)</i></b></summary>
+<summary><b>🤖 AI Developer — BETOPIA &nbsp;<i>(Jan 2025 – Present)</i></b></summary>
 
 <br/>
 
