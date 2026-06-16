@@ -55,11 +55,13 @@ open_to    : Mobile Apps · AI Products · Collaboration · Freelance
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shakilahammed055&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=shakilahammed055&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=shakilahammed055&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 
 </div>
 
@@ -258,19 +260,7 @@ Data Analysis with Python: EDA, hypothesis testing, ML pipelines · *May – Sep
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shakilahammed055&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" height="180"/>
-&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakilahammed055&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8&cache_seconds=1800" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=shakilahammed055&theme=tokyonight&border_radius=10&hide_border=true" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakilahammed055&theme=tokyonight" width="100%"/>
-
-<br/>
 
 </div>
 
