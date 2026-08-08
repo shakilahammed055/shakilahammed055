@@ -1,55 +1,160 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shakil%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20Engineer%20%7C%20ML%20Builder&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shakil%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Flutter%20Developer%20%7C%20Software%20Engineer%20%7C%20AI%20Builder&descAlignY=58&descSize=18" alt="Shakil Ahamed Banner" />
 
 <a href="https://github.com/shakilahammed055">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Flutter+Developer+%F0%9F%93%B1;AI+Engineer+%F0%9F%A4%96;Cross-Platform+App+Builder+%F0%9F%9A%80;Machine+Learning+Specialist+%F0%9F%A7%A0;Computer+Vision+Expert+%F0%9F%91%81%EF%B8%8F;Generative+AI+Builder+%E2%9C%A8;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Flutter+Developer+%F0%9F%93%B1;Software+Engineer+%F0%9F%92%BB;Backend+API+%26+Database+Architect+%E2%9A%A1;AI+%26+Computer+Vision+Builder+%F0%9F%A7%A0;Open+for+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shakilahammed055&label=Profile%20Views&color=7c3aed&style=for-the-badge&logo=eye)](https://github.com/shakilahammed055)
-[![GitHub followers](https://img.shields.io/github/followers/shakilahammed055?label=Followers&style=for-the-badge&color=302b63&logo=github)](https://github.com/shakilahammed055?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/shakilahammed055?label=Stars&style=for-the-badge&color=0f0c29&logo=github)](https://github.com/shakilahammed055)
+[![GitHub Followers](https://img.shields.io/github/followers/shakilahammed055?label=Followers&style=for-the-badge&color=302b63&logo=github)](https://github.com/shakilahammed055?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/shakilahammed055?label=Stars&style=for-the-badge&color=0f0c29&logo=github)](https://github.com/shakilahammed055)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shakil%20Ahamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidevshakil/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-shakilahammed0555-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shakilahammed0555)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-22852685-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22852685)
-[![CodePen](https://img.shields.io/badge/CodePen-shakil--ahammed-000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shakil-ahammed)
-[![Email](https://img.shields.io/badge/Gmail-aidevshakilinfo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidevshakilinfo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shakil--ahammed055-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-ahammed055/)
+[![Email](https://img.shields.io/badge/Gmail-shakilahammed055%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakilahammed055@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-008080?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Dhaka,Bangladesh)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## ⚡ About Me
 
-> *"Flutter Developer and AI Engineer building intelligent, scalable, and user-friendly products across mobile, backend, and AI."*
-
-I'm a **Flutter Developer and AI Engineer** currently building production-ready products across **cross-platform mobile apps, AI systems, and backend services**. Alongside polished Flutter applications with responsive UI, API integration, Firebase, and scalable app architecture, I also develop machine learning, NLP, and computer vision solutions.
+> **Results-driven Full Stack Flutter Developer & Software Engineer** with expertise in mobile application development, backend API design, and modern web technologies. Proficient in **Flutter, React.js, Node.js, Express.js, FastAPI, MongoDB, PostgreSQL, and Firebase**, with hands-on experience building production-ready applications from concept to deployment.
 
 ```yaml
-name       : Shakil Ahamed
-role       : Flutter Developer | AI Engineer
-company    : BETOPIA (Softvence Sister Concern)
-location   : Mohakhali, Dhaka, Bangladesh
-education  : BSc in CSE — Gopalganj Science & Technology University
-contact    : aidevshakilinfo@gmail.com | +880 1521750556
-focus      :
-  - Flutter App Development
-  - Cross-Platform Mobile Apps
-  - Multi-Agent Systems
-  - Generative AI
-  - Computer Vision
-  - NLP & LLMs
-open_to    : Mobile Apps · AI Products · Collaboration · Freelance
+Name        : Shakil Ahamed
+Role        : Full Stack Flutter Developer | Software Engineer
+Current_Co  : BETOPIA GROUP
+Location    : Dhaka, Bangladesh
+Education   : B.Sc. in Computer Science & Engineering — GSTU
+Expertise   :
+  - Mobile App Architecture (Flutter, BLoC, Provider, Riverpod, Clean Arch)
+  - Backend & APIs (FastAPI, Express.js, Node.js, RESTful APIs, JWT)
+  - Database Management (PostgreSQL, MongoDB, Firebase, MySQL)
+  - AI & Computer Vision (OpenCV, TensorFlow, ML Integration)
+Availability: Open for Mobile & Full-Stack Projects, Consulting & AI Solutions
 ```
 
 ---
 
-## 🏆 GitHub Highlights
+## 💼 Professional Experience
+
+<table>
+  <tr>
+    <td>
+      <h3>⚡ Software Engineer — <a href="#">BETOPIA GROUP</a></h3>
+      <p><b>Dhaka, Bangladesh</b> | <i>Jan 2025 – Present</i></p>
+      <ul>
+        <li>Architected and developed scalable cross-platform applications using <b>Flutter</b> and <b>Clean Architecture</b>.</li>
+        <li>Engineered and integrated secure <b>RESTful APIs</b> using <b>FastAPI</b> and <b>Firebase</b> services.</li>
+        <li>Designed efficient data storage solutions with <b>PostgreSQL</b>, <b>MongoDB</b>, and <b>Firebase Cloud Firestore</b>.</li>
+        <li>Collaborated within cross-functional Agile teams delivering production features through version-controlled Git workflows.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📱 Software Engineer — <a href="#">SOFTWARE ARENA LTD</a></h3>
+      <p><b>Dhaka, Bangladesh</b> | <i>June 2023 – Dec 2024</i></p>
+      <ul>
+        <li>Developed high-performance ERP and enterprise business applications in <b>Flutter</b> with pixel-perfect responsive UI.</li>
+        <li>Integrated secure <b>RESTful APIs</b>, JWT authentication, and cloud-based Firebase backends.</li>
+        <li>Collaborated with backend teams optimizing end-to-end communication via <b>Node.js, Express.js</b>, and <b>FastAPI</b>.</li>
+        <li>Boosted application performance by 30%+ through reusable modular UI components and state management optimization.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Selected Projects
+
+| Project | Key Technologies | Description & Access Links |
+| :--- | :--- | :--- |
+| **InPrep AI** | `Flutter` `FastAPI` `PostgreSQL` `TensorFlow` `OpenCV` | **AI-Powered Interview Preparation Platform**<br/>Features facial emotion recognition, confidence scoring, real-time feedback, and secure RESTful AI pipeline.<br/>[![Play Store](https://img.shields.io/badge/Play_Store-000000?style=flat-square&logo=googleplay&logoColor=white)](#) |
+| **AI Student Portal** | `Flutter` `React.js` `FastAPI` `PostgreSQL` | **Full-Stack Academic & Admin Platform**<br/>Integrates AI-powered workflows for students & faculty, responsive UI, secure auth, and optimized DB operations.<br/>[![Live Site](https://img.shields.io/badge/Live-zyura--e.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://zyura-e.com) |
+| **Unfall Update** | `Flutter` `FastAPI` `PostgreSQL` `Firebase` | **Accident Claim Management System**<br/>Features OTP auth, RBAC, document management, interactive dashboards & case tracking for drivers, lawyers & admins.<br/>[![Play Store](https://img.shields.io/badge/Play_Store-000000?style=flat-square&logo=googleplay&logoColor=white)](#) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](#) |
+| **Sippd.Coffee** | `Flutter` `Firebase` `REST APIs` | **Social Coffee Discovery & Review Platform**<br/>Enables users to discover cafés, rate experiences, log visits, and sync data seamlessly in the cloud.<br/>[![Play Store](https://img.shields.io/badge/Play_Store-000000?style=flat-square&logo=googleplay&logoColor=white)](#) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](#) |
+| **E-Commerce Platform** | `Flutter` `React.js` `Node.js` `MongoDB` | **Full-Stack Mobile & Web Shopping Platform**<br/>Complete product catalog, cart, checkout, order processing, and comprehensive admin dashboard. |
+
+---
+
+## 🛠️ Technical Stack & Architecture
+
+<div align="center">
+
+### 📱 Mobile & Frontend Development
+[![Skills](https://skillicons.dev/icons?i=flutter,dart,react,nextjs,html,css,tailwind,bootstrap&theme=dark&perline=8)](https://skillicons.dev)
+
+<br/>
+
+### 🔌 Backend & Microservices
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,python,js,ts,c,cpp&theme=dark&perline=8)](https://skillicons.dev)
+
+<br/>
+
+### 🗄️ Databases & Storage
+[![Skills](https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql,sqlite,redis&theme=dark&perline=6)](https://skillicons.dev)
+
+<br/>
+
+### 🤖 AI, Machine Learning & Computer Vision
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4)](https://skillicons.dev)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+<br/>
+
+### ☁️ DevOps & Tools
+[![Skills](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,figma,vercel&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📜 Certifications & Education
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Education</h3>
+      <p><b>B.Sc. in Computer Science & Engineering</b></p>
+      <p>Gopalganj Science and Technology University (GSTU)<br/><i>2019 – 2022</i></p>
+      <p>Focus on Software Engineering, Data Structures, Database Systems & Algorithms.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📜 Certifications & Training</h3>
+      <ul>
+        <li>
+          <b>Skill Development for Mobile Game & Application</b><br/>
+          <i>ICT Division, Government of Bangladesh (2022)</i><br/>
+          Intensive training in Flutter app development, mobile UI design, Firebase & REST API integration.
+        </li>
+        <br/>
+        <li>
+          <b>Data Analysis with Python</b><br/>
+          <i>EDGE Project, ICT Division (2024)</i><br/>
+          Practical training in Python programming, data visualization, EDA & ML fundamentals.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics & Contributions
 
 <div align="center">
 
@@ -57,177 +162,11 @@ open_to    : Mobile Apps · AI Products · Collaboration · Freelance
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=shakilahammed055&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 
-</div>
+<br/><br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakilahammed055&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages" />
 
-### 📱 Flutter Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **InPrep AI** | Flutter, Python, TensorFlow, OpenCV | AI-powered interview preparation app with facial emotion recognition, confidence analysis, real-time feedback, and personalized coaching |
-| **Unfall-Update** | Flutter, Firebase, REST APIs | Accident claim management app with OTP authentication, role-based access, document upload, dashboards, and secure case tracking |
-| **Sippd.Coffee** | Flutter | Social coffee discovery app for exploring cafes, logging visits, sharing experiences, and rating coffee shops |
-| **theSliceUp** | Flutter | Personal finance app for tracking income, expenses, budgets, savings goals, and spending analytics |
-| **Biovue** | Flutter, AI | AI-assisted fitness tracking app with personalized workout recommendations and progress insights |
-| **Fairplay** | Flutter | Sports management platform for tracking teams, matches, player statistics, rankings, and performance analytics |
-| **FitFlex** | Flutter | Fitness and workout tracking application with exercise plans, progress monitoring, and goal setting |
-| **E-commerce App Admin Panel** | Flutter | E-commerce management app with product catalog, orders, authentication, payments, and admin dashboard |
-| **Weather App** | Flutter, APIs | Real-time location-based weather forecasting app with dynamic weather visualizations |
-| **User Data Collection App** | Flutter, Local Storage | Secure form-based app with validation, local storage, and data synchronization support |
-
-<br/>
-
-### 🤖 AI Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **MCP Platform** | FastMCP, Python | Multi-agent orchestration enabling seamless AI tools & API integration |
-| **Image Captioning Model** | TensorFlow, CNN | Deep learning model generating human-like descriptions from visual input |
-| **Text-to-Image Generator** | Stable Diffusion | Converts natural language prompts into high-quality visuals |
-| **Heart Disease Prediction API** | FastAPI, ML | ML model deployed via FastAPI for early medical diagnostics |
-| **Student NLP Chatbot** | OpenAI API, Render | Multilingual educational assistant deployed on Render |
-| **Car Wrap Design Tool** | SAM, OpenCV, Diffusion | Visual prototyping for automotive wraps |
-| **Netflix Data Analysis** | Pandas, Matplotlib | EDA uncovering viewer behavior & genre popularity trends |
-| **Power BI Dashboards** | Power BI, MySQL | Interactive BI dashboards for KPI & sales reporting |
-| **InPrep-AI** | GPT-4, FastAPI, PostgreSQL | AI-powered mock interview platform with question generation, scoring, feedback & candidate tracking |
-| **Multi-Agent Chatbot** | LangChain, FastAPI, EachLabs | Integrated video/image generation, TTS & editing tools into scalable pipelines |
-| **AI Ad Generation System** | GPT-4, MusicGen, Stable Diffusion | Shot-based AI ad video pipeline with auto music & voiceover |
-| **NFL Player Predictor** | XGBoost, Goalserve API | Feature engineering + modeling with injury data & fantasy scoring |
-| **Viral Clip Detection** | OpenCV, FFmpeg, Custom ML | Hybrid video segmentation & viral shot detection for social media |
-| **AI Fitness Tracking** | Python, ML, FastAPI | Personalized food & exercise recommendation based on daily activity |
-| **Car Body Wrap AI** | U-Net, SAM, SegFormer, Diffusion | Computer vision pipeline for automotive wrap design generation |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages & Core
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,c,cpp,dart,html,css,bash&theme=dark&perline=9)](https://skillicons.dev)
-
-<br/>
-
-### 🧩 Frameworks & Libraries
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,nodejs,flutter,flask,fastapi&theme=dark&perline=8)](https://skillicons.dev)
-
-<br/>
-
-### 🤖 AI / ML / Deep Learning
-
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8)](https://skillicons.dev)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logo=stability-ai&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6929C4?style=flat-square&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-
-**Architectures**: `CNNs` · `RNNs` · `Transformers` · `U-Net` · `SegFormer` · `SAM` · `Stable Diffusion` · `GPT-4`
-
-<br/>
-
-### 🗄️ Databases & Vector Search
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis&theme=dark&perline=6)](https://skillicons.dev)
-
-![FAISS](https://img.shields.io/badge/FAISS-0081A7?style=flat-square&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-FF4785?style=flat-square&logoColor=white)
-
-<br/>
-
-### ☁️ Cloud & DevOps
-
-[![My Skills](https://skillicons.dev/icons?i=docker,azure,aws,git,github,githubactions,linux,vercel&theme=dark&perline=8)](https://skillicons.dev)
-
-<br/>
-
-### 🎨 Tools & Design
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,postman,photoshop&theme=dark&perline=8)](https://skillicons.dev)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-
-</div>
-
----
-
-## 📈 Skill Proficiency
-
-<div align="center">
-
-| Skill | Proficiency |
-|:--|:--|
-| 📱 Flutter Development | ![95%](https://img.shields.io/badge/95%25-brightgreen?style=for-the-badge&labelColor=0f0c29) |
-| 🎯 Cross-Platform Mobile Apps | ![90%](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge&labelColor=0f0c29) |
-| 🔥 Firebase & REST APIs | ![90%](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge&labelColor=0f0c29) |
-| 🎛️ State Management | ![85%](https://img.shields.io/badge/85%25-green?style=for-the-badge&labelColor=0f0c29) |
-| 🧠 Machine Learning | ![95%](https://img.shields.io/badge/95%25-brightgreen?style=for-the-badge&labelColor=0f0c29) |
-| 👁️ Computer Vision | ![90%](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge&labelColor=0f0c29) |
-| 💬 NLP & LLMs | ![90%](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge&labelColor=0f0c29) |
-| 🎨 Generative AI | ![85%](https://img.shields.io/badge/85%25-green?style=for-the-badge&labelColor=0f0c29) |
-| 🤝 Multi-Agent Systems | ![85%](https://img.shields.io/badge/85%25-green?style=for-the-badge&labelColor=0f0c29) |
-| ⚙️ MLOps / Deployment | ![80%](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge&labelColor=0f0c29) |
-| 📊 Data Engineering | ![75%](https://img.shields.io/badge/75%25-yellowgreen?style=for-the-badge&labelColor=0f0c29) |
-
-</div>
-
----
-
-## 🎓 Education & Training
-
-<table>
-<tr>
-<td width="60" align="center">🏫</td>
-<td>
-<b>BSc in Computer Science & Engineering</b><br/>
-Gopalganj Science and Technology University, Bangladesh
-<br/>
-<img src="https://img.shields.io/badge/2019%20--%202024-302b63?style=flat-square" alt="2019 - 2024"/>
-</td>
-</tr>
-<tr>
-<td align="center">📜</td>
-<td>
-<b>EDGE-BSMRSTU CSE — Digital Skills for Students</b><br/>
-Data Analysis with Python: EDA, hypothesis testing, ML pipelines
-<br/>
-<img src="https://img.shields.io/badge/May%20--%20Sep%202024-302b63?style=flat-square" alt="May - Sep 2024"/>
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakilahammed055&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8&cache_seconds=1800" height="180"/>
-
-</div>
-
----
-
-## 📉 Contribution Activity
-
-<div align="center">
+<br/><br/>
 
 [![Shakil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shakilahammed055&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -235,29 +174,15 @@ Data Analysis with Python: EDA, hypothesis testing, ML pipelines
 
 ---
 
-## 🐍 Contribution Snake
+## 🏙️ 3D Contribution Skyline
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/main/profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/main/profile-3d-contrib/profile-night-view.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
 </picture>
-
-<!-- <br/>
-
-<img src="https://raw.githubusercontent.com/shakilahammed055/shakilahammed055/output/ocean.gif" alt="snake ocean animation" />
-
-</div> -->
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -265,14 +190,15 @@ Data Analysis with Python: EDA, hypothesis testing, ML pipelines
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Something Extraordinary
+### 🤝 Let's Connect & Build Something Amazing Together
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shakil-ahammed055/)
-[![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail)](mailto:aidevshakilinfo@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Work-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/shakilahammed0555)
+[![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail)](mailto:shakilahammed055@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/shakilahammed055)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" alt="Footer Banner" />
 
 </div>
+
