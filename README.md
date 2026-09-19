@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shakil%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%28Flutter%20%26%20Kotlin%29%20%7C%20Full%20Stack%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Shakil Ahamed Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=220&section=header&text=Shakil%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Flutter%20%26%20Kotlin%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=58&descSize=18" alt="Shakil Ahamed Banner" />
 
 <a href="https://github.com/shakilahammed055">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Android+Developer+%F0%9F%93%B1;Flutter+%26+Kotlin+Native+Builder+%E2%9A%A1;Full+Stack+Developer+%F0%9F%92%BB;A+Little+Bit+of+AI+%F0%9F%A7%A0;Open+for+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
